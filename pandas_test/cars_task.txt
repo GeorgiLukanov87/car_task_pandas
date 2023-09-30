@@ -1,0 +1,24 @@
+Problem Statement:
+You have been given a dataset containing information about various cars,
+including their make, model, year, and price.
+Your task is to write a Python program that can perform the following operations:
+
+    Load the dataset from a JSON file.
+    Print the number of unique cars in the dataset.
+    Print the average horse power of all the cars.
+    Print the top 5 most heaviest cars.
+    Print the number of cars made by each manufacturer.
+    Print the number of cars made each year.
+    Save the dataset to a CSV file.
+
+Instructions:
+1.Write a Python program that reads the dataset from the JSON file.
+2.Use pandas to load the data into a DataFrame.
+3.Implement the required operations using the DataFrame methods and functions.
+4.Print the results to the console.
+5.Save the final DataFrame to a CSV file.
+6.Use OOP
+7.Upload the code in public GIT repository
+8.Logging, error handling, docstrings are mandatory
+9.Provide setup.py or pyproject.toml
+10.Write unittests (optional)
