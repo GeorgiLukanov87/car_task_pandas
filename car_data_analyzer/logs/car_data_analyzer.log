@@ -1,0 +1,29 @@
+2024-08-02 17:01:52,360 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-02 17:01:52,369 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 10:50:46,465 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 10:50:46,482 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 10:51:54,068 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-03 10:51:54,080 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-03 11:23:13,598 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:23:13,611 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:23:32,553 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:23:44,667 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:23:51,611 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:24:06,229 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:24:06,245 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:26:17,585 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:26:17,592 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:28:11,541 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:28:11,548 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:30:25,739 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:30:25,746 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:30:40,825 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:30:40,833 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-03 11:30:48,010 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-03 11:30:48,017 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-05 18:59:21,911 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-05 18:59:21,926 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 16:51:29,963 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 16:51:29,983 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 16:52:05,677 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 16:52:05,688 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
