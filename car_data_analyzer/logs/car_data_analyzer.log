@@ -27,3 +27,289 @@
 2024-08-06 16:51:29,983 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
 2024-08-06 16:52:05,677 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
 2024-08-06 16:52:05,688 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 17:44:40,707 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 17:44:40,714 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 17:47:22,931 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:47:27,390 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:47:27,390 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:47:27,401 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 17:47:27,401 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 17:47:32,507 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:47:32,507 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:47:32,507 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:48:17,184 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:48:17,198 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 17:48:38,937 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 17:48:38,944 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 17:55:11,929 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:55:11,937 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 17:55:17,182 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:55:17,182 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:56:10,126 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 17:56:10,132 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 17:56:31,731 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 17:56:31,743 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:02:52,467 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:02:52,474 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:05:02,250 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:05:02,257 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:08:25,349 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:08:25,357 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:08:38,694 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:08:38,701 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:08:46,911 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:08:46,918 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:10:14,311 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:10:14,317 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:10:40,273 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:10:40,280 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:13:38,488 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:13:38,495 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:17:29,718 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:17:29,730 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 18:20:19,456 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:20:19,470 - CarDataAnalyzer - INFO - Данните са запазени в C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-06 18:20:19,471 - CarDataAnalyzer - INFO - Изчислени са средните стойности
+2024-08-06 18:20:19,475 - CarDataAnalyzer - INFO - Извлечени са най-добрите и най-лошите 5 автомобила за Horsepower
+2024-08-06 18:23:12,987 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:24:06,624 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:24:44,949 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:24:44,956 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:27:12,703 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:27:12,715 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:27:12,715 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:27:12,719 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:27:15,851 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:27:19,573 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:27:27,005 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:27:28,138 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:28:15,307 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-06 18:28:15,314 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-06 18:28:15,314 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:28:15,316 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:29:34,462 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:29:34,474 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:29:34,475 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:29:34,480 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:29:37,634 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:29:44,648 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:29:54,504 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:35:03,184 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:35:03,196 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:35:03,196 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:35:03,200 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:35:06,850 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:35:08,224 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:35:35,937 - CarDataAnalyzer - INFO - Filtered data from year 2003 to 2010
+2024-08-06 18:36:04,181 - CarDataAnalyzer - INFO - Filtered data from year 1960 to 2010
+2024-08-06 18:36:14,564 - CarDataAnalyzer - ERROR - Column '' not found in the data.
+2024-08-06 18:36:17,119 - CarDataAnalyzer - INFO - Filtered data from year 1960 to 2010
+2024-08-06 18:36:19,630 - CarDataAnalyzer - ERROR - Column '' not found in the data.
+2024-08-06 18:36:27,102 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 18:36:32,010 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 18:36:44,369 - CarDataAnalyzer - INFO - Sorted data by Acceleration (ascending)
+2024-08-06 18:37:09,391 - CarDataAnalyzer - INFO - Filtered data from year 1980 to 2010
+2024-08-06 18:37:33,051 - CarDataAnalyzer - INFO - Sorted data by Liters_per_100km (ascending)
+2024-08-06 18:37:44,682 - CarDataAnalyzer - ERROR - Column '' not found in the data.
+2024-08-06 18:37:46,213 - CarDataAnalyzer - INFO - Filtered data from year 1980 to 2010
+2024-08-06 18:37:55,149 - CarDataAnalyzer - INFO - Filtered data from year 1980 to 1981
+2024-08-06 18:38:16,176 - CarDataAnalyzer - ERROR - Column 'year' not found in the data.
+2024-08-06 18:38:19,289 - CarDataAnalyzer - INFO - Sorted data by Year (ascending)
+2024-08-06 18:38:29,059 - CarDataAnalyzer - INFO - Filtered data from year 1980 to 1981
+2024-08-06 18:38:30,074 - CarDataAnalyzer - INFO - Sorted data by Year (ascending)
+2024-08-06 18:38:47,429 - CarDataAnalyzer - INFO - Sorted data by Acceleration (ascending)
+2024-08-06 18:38:58,791 - CarDataAnalyzer - INFO - Filtered data from year 1980 to 1981
+2024-08-06 18:39:04,776 - CarDataAnalyzer - ERROR - Column '' not found in the data.
+2024-08-06 18:39:07,969 - CarDataAnalyzer - INFO - Sorted data by Acceleration (ascending)
+2024-08-06 18:39:18,019 - CarDataAnalyzer - INFO - Filtered data from year 1981 to 1981
+2024-08-06 18:39:21,483 - CarDataAnalyzer - INFO - Filtered data from year 1981 to 1982
+2024-08-06 18:39:29,245 - CarDataAnalyzer - INFO - Filtered data from year 2000 to 2001
+2024-08-06 18:39:37,085 - CarDataAnalyzer - INFO - Filtered data from year 1999 to 2000
+2024-08-06 18:39:47,783 - CarDataAnalyzer - INFO - Filtered data from year 1955 to 1956
+2024-08-06 18:39:52,935 - CarDataAnalyzer - INFO - Filtered data from year 1977 to 1978
+2024-08-06 18:47:19,528 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:47:19,539 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:47:19,540 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:47:19,545 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:47:22,892 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:47:24,361 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:55:33,396 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 18:55:33,408 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 18:55:33,409 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 18:55:33,413 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 18:55:51,357 - CarDataAnalyzer - INFO - Filtered data from year 1979 to 1980
+2024-08-06 18:55:58,804 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 18:56:04,902 - CarDataAnalyzer - INFO - Sorted data by Miles_per_Gallon (ascending)
+2024-08-06 19:02:46,952 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:02:46,964 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:02:46,965 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:02:46,969 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:07:32,084 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:07:32,096 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:07:32,097 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:07:32,100 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:07:35,166 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:07:36,441 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:07:44,137 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:07:48,426 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 19:08:30,897 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 19:08:38,441 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:09:38,335 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:09:38,350 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:09:38,350 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:09:38,352 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:09:43,731 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:09:51,228 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:09:55,005 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:10:11,518 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:10:30,744 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:10:30,757 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:10:30,758 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:10:30,761 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:10:35,771 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:12:02,626 - CarDataAnalyzer - INFO - Sorted data by Horsepower (ascending)
+2024-08-06 19:12:26,086 - CarDataAnalyzer - INFO - Sorted data by Horsepower (descending)
+2024-08-06 19:16:09,995 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:16:10,007 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:16:10,008 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:16:10,012 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:19:45,782 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:19:45,794 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:19:45,795 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:19:45,799 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:19:49,930 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:19:51,494 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:20:04,139 - CarDataAnalyzer - INFO - Filtered data from year 1977 to 1978
+2024-08-06 19:20:26,307 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:20:26,321 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:20:26,321 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:20:26,323 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:20:33,079 - CarDataAnalyzer - ERROR - Column 'name' not found in the data.
+2024-08-06 19:20:38,890 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 19:22:43,439 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:22:43,451 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:22:43,452 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:22:43,456 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:25:10,209 - CarDataAnalyzer - ERROR - File not found: Enter JSON file path
+2024-08-06 19:25:17,102 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:25:17,102 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:25:17,114 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:25:17,114 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:25:17,114 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:25:17,114 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:25:17,118 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:25:17,118 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:25:25,421 - CarDataAnalyzer - INFO - Filtered data from year 1978 to 1999
+2024-08-06 19:25:25,421 - CarDataAnalyzer - INFO - Filtered data from year 1978 to 1999
+2024-08-06 19:26:22,213 - CarDataAnalyzer - INFO - Filtered data from year 1978 to 1979
+2024-08-06 19:26:22,213 - CarDataAnalyzer - INFO - Filtered data from year 1978 to 1979
+2024-08-06 19:26:59,700 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:26:59,713 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:26:59,714 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:26:59,718 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:27:02,580 - CarDataAnalyzer - INFO - Sorted data by Origin (ascending)
+2024-08-06 19:37:53,143 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:37:53,155 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:37:53,156 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:37:53,160 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:36,843 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:38:36,855 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:38:36,855 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:38:36,859 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:42,436 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:38:42,436 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:38:42,444 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:38:42,444 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:38:42,445 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:38:42,445 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:38:42,449 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:42,449 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:49,690 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 19:38:49,690 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-06 19:38:51,982 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:51,982 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:38:53,457 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:38:53,457 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:39:09,463 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:39:09,476 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:39:09,476 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:39:09,480 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:39:14,101 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:39:15,650 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:41:35,599 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:41:35,611 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:41:35,611 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:41:35,617 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:41:38,921 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:41:40,135 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:42:29,831 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:42:29,843 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:42:29,843 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:42:29,847 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:42:33,403 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:42:34,700 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:44:13,502 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:44:13,515 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:44:13,516 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:44:13,520 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-06 19:45:29,139 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-06 19:45:29,151 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-06 19:45:29,151 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-06 19:45:29,156 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-07 09:50:57,974 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-07 09:50:57,990 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/car_data_result_output.csv
+2024-08-07 09:50:57,991 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-07 09:50:57,996 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-07 09:51:11,158 - CarDataAnalyzer - INFO - Filtered data from year 1978 to 1980
+2024-08-07 09:51:26,008 - CarDataAnalyzer - INFO - Sorted data by Horsepower (ascending)
+2024-08-07 09:51:47,653 - CarDataAnalyzer - INFO - Sorted data by Horsepower (descending)
+2024-08-07 10:03:13,165 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-07 10:03:13,172 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-07 10:03:13,173 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-07 10:03:13,175 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-07 14:42:03,686 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-07 14:42:03,698 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-07 14:42:03,698 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-07 14:42:03,702 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-08 15:48:26,786 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-08 15:48:26,800 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-08 15:48:26,801 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-08 15:48:26,804 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-09 18:53:57,439 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-09 18:53:57,466 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-09 18:53:57,466 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-09 18:53:57,472 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-09 18:55:04,485 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-09 18:55:06,611 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-09 18:55:14,846 - CarDataAnalyzer - INFO - Filtered data from year 1977 to 1879
+2024-08-09 18:55:20,111 - CarDataAnalyzer - INFO - Filtered data from year 1967 to 1879
+2024-08-09 18:55:24,415 - CarDataAnalyzer - INFO - Filtered data from year 1967 to 1979
+2024-08-09 18:55:36,297 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-10 10:34:25,776 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-10 10:34:25,802 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-10 10:34:25,803 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 10:34:25,809 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 10:37:07,630 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-10 10:37:07,637 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-10 10:37:07,637 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 10:37:07,639 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 10:37:32,747 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/cars.json
+2024-08-10 10:37:32,755 - CarDataAnalyzer - INFO - Saved data to C:/Users/User/Desktop/project_x/car_task_pandas/car_data_analyzer/data/new.csv
+2024-08-10 10:37:32,755 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 10:37:32,757 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 23:27:01,983 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/cars-cluster-analysis/cars-clear-data.json
+2024-08-10 23:27:02,010 - CarDataAnalyzer - INFO - Saved data to Enter CSV file path
+2024-08-10 23:27:02,010 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 23:27:02,015 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 23:28:33,896 - CarDataAnalyzer - INFO - Successfully loaded data from data/cars.json
+2024-08-10 23:28:33,902 - CarDataAnalyzer - INFO - Saved data to data/car_data_result_output.csv
+2024-08-10 23:28:33,903 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 23:28:33,905 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 23:30:10,327 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 23:30:12,235 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
+2024-08-10 23:30:28,466 - CarDataAnalyzer - INFO - Filtered data from year 1977 to 1978
+2024-08-10 23:30:40,866 - CarDataAnalyzer - INFO - Sorted data by Name (ascending)
+2024-08-10 23:51:01,629 - CarDataAnalyzer - INFO - Successfully loaded data from C:/Users/User/Desktop/cars-cluster-analysis/cars.json
+2024-08-10 23:51:01,642 - CarDataAnalyzer - INFO - Saved data to Enter CSV file path
+2024-08-10 23:51:01,642 - CarDataAnalyzer - INFO - Calculated average values
+2024-08-10 23:51:01,644 - CarDataAnalyzer - INFO - Retrieved top and bottom 5 cars for Horsepower
