@@ -34,35 +34,35 @@ python controller.py
 - `visualisation_data.py`: Генериране на визуализации
 
 ## Структура
-
-car_data_analyzer/
-│
-├── data/
-│   ├── cars.json                  # Входният JSON файл с данни за колите
-│   └── car_data_result_output.csv # Изходният CSV файл с анализираните данни
-│
-├── logs/
-│   └── car_data_analyzer.log      # Лог файлът за приложението
-│
-├── car_data_analyzer/
-│   ├── __init__.py
-│   ├── main.py                    # Главният файл с основната логика на приложението
-│   ├── controller.py              # Файлът, който стартира приложението
-│   │
-│   ├── data_processing/
-│   │   ├── __init__.py
-│   │   └── convert_data.py        # Модул за конвертиране на данните
-│   │
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   └── logger.py              # Модул за настройка на логера
-│   │
-│   └── visualization/
-│       ├── __init__.py
-│       └── visualisation_data.py  # Модул за визуализация на данните
-│
-├── tests/
-│   └── test_main.py               # Тестове за основната логика
-│
-├── requirements.txt               # Файл със зависимости
-└── README.md                      # Описание на проекта
+  
+    car_data_analyzer/
+    │
+    ├── data/
+    │   ├── cars.json                  # Входният JSON файл с данни за колите
+    │   └── car_data_result_output.csv # Изходният CSV файл с анализираните данни
+    │
+    ├── logs/
+    │   └── car_data_analyzer.log      # Лог файлът за приложението
+    │
+    ├── car_data_analyzer/
+    │   ├── __init__.py
+    │   ├── main.py                    # Главният файл с основната логика на приложението
+    │   ├── controller.py              # Файлът, който стартира приложението
+    │   │
+    │   ├── data_processing/
+    │   │   ├── __init__.py
+    │   │   └── convert_data.py        # Модул за конвертиране на данните
+    │   │
+    │   ├── utils/
+    │   │   ├── __init__.py
+    │   │   └── logger.py              # Модул за настройка на логера
+    │   │
+    │   └── visualization/
+    │       ├── __init__.py
+    │       └── visualisation_data.py  # Модул за визуализация на данните
+    │
+    ├── tests/
+    │   └── test_main.py               # Тестове за основната логика
+    │
+    ├── requirements.txt               # Файл със зависимости
+    └── README.md                      # Описание на проекта
